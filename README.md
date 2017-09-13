@@ -1,2 +1,2 @@
 # Hello-World
-This is sample repository
+This is sample edit text.
